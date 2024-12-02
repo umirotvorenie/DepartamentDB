@@ -89,9 +89,9 @@
             // dataGridView1
             // 
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(90, 49);
+            this.dataGridView1.Location = new System.Drawing.Point(158, 55);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(599, 246);
+            this.dataGridView1.Size = new System.Drawing.Size(448, 248);
             this.dataGridView1.TabIndex = 0;
             // 
             // tabPage2
