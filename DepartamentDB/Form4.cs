@@ -185,6 +185,11 @@ namespace DepartamentDB
             this.Hide();
             form1.Show();
         }
+
+        private void label9_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 
 }
