@@ -105,9 +105,9 @@
             // 
             this.button1.BackColor = System.Drawing.Color.LightGoldenrodYellow;
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.button1.Location = new System.Drawing.Point(623, 387);
+            this.button1.Location = new System.Drawing.Point(623, 381);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(206, 41);
+            this.button1.Size = new System.Drawing.Size(206, 53);
             this.button1.TabIndex = 8;
             this.button1.Text = "Обновить данные сотрудника";
             this.button1.UseVisualStyleBackColor = false;
@@ -132,9 +132,9 @@
             // 
             this.button2.BackColor = System.Drawing.Color.LightGoldenrodYellow;
             this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.button2.Location = new System.Drawing.Point(72, 387);
+            this.button2.Location = new System.Drawing.Point(72, 381);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(206, 41);
+            this.button2.Size = new System.Drawing.Size(206, 53);
             this.button2.TabIndex = 11;
             this.button2.Text = "Загрузить данные";
             this.button2.UseVisualStyleBackColor = false;
